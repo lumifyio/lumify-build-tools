@@ -5,7 +5,7 @@
 
     <groupId>io.lumify</groupId>
     <artifactId>lumify-build-tools</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>Lumify Build Tools</name>
     <description>Common build tools and configurations for Lumify projects.</description>
